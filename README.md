@@ -73,6 +73,6 @@ Saját, önálló projektet (pl. a vizsgaremekhez) az `npm create vite@latest` p
 
 ## Ajánlott VS Code bővítmények
 
-- **ES7+ React/Redux/React-Native snippets** – `rfc` + Tab → kész komponens váz
-- **REST Client** – a szerver végpontjainak kipróbálásához
+- [**ES7+ React/Redux/React-Native snippets**](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) – `rfc` + Tab → kész komponens váz
+- **REST Client** vagy **Bruno** – a szerver végpontjainak kipróbálásához
 - Böngészőbe: **React Developer Tools** (Chrome / Firefox) – a komponensfa, a props és a state megtekintése

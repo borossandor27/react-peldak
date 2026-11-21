@@ -9,7 +9,7 @@ import Fejlec from './components/Fejlec.jsx';
 import Lablec from './components/Lablec.jsx';
 
 // A komponensen KÍVÜL lévő konstansok egyszer jönnek létre
-const ISKOLA = 'BGéSzC Logisztikai és Kereskedelmi Technikum';
+const ISKOLA = 'BGSZC Logisztikai és Kereskedelmi Technikum és Szakképző Iskola';
 const TANTARGYAK = ['Frontend', 'Backend', 'Adatbázis', 'Hálózatok'];
 
 export default function App() {
