@@ -1,0 +1,6 @@
+[
+  { "id": 1, "nev": "Robotika", "leiras": "Arduino és LEGO robotok programozása.", "nap": "hétfő", "idopont": "14:30", "max_letszam": 12, "tanar_id": 6 },
+  { "id": 2, "nev": "Webfejlesztés", "leiras": "Saját weboldal HTML-lel, CSS-sel és Reacttel.", "nap": "kedd", "idopont": "15:00", "max_letszam": 15, "tanar_id": 6 },
+  { "id": 3, "nev": "Sakk", "leiras": "Megnyitások, taktikák, iskolai bajnokság.", "nap": "szerda", "idopont": "14:00", "max_letszam": 2, "tanar_id": 7 },
+  { "id": 4, "nev": "Kosárlabda", "leiras": "Edzés a tornateremben, kezdőknek is.", "nap": "csütörtök", "idopont": "15:30", "max_letszam": 20, "tanar_id": 7 }
+]

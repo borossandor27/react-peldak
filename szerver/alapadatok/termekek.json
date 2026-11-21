@@ -1,0 +1,10 @@
+[
+  { "id": 1, "nev": "Spirálfüzet A4", "kategoria": "füzet", "ar": 690, "keszlet": 120, "leiras": "80 lapos, kockás" },
+  { "id": 2, "nev": "Vonalas füzet A5", "kategoria": "füzet", "ar": 290, "keszlet": 300, "leiras": "32 lapos, 21-32" },
+  { "id": 3, "nev": "Golyóstoll kék", "kategoria": "írószer", "ar": 190, "keszlet": 500, "leiras": "0,7 mm" },
+  { "id": 4, "nev": "Grafitceruza HB", "kategoria": "írószer", "ar": 120, "keszlet": 0, "leiras": "radírral" },
+  { "id": 5, "nev": "Szövegkiemelő készlet", "kategoria": "írószer", "ar": 1290, "keszlet": 35, "leiras": "4 szín" },
+  { "id": 6, "nev": "Iratrendező", "kategoria": "irodaszer", "ar": 1590, "keszlet": 18, "leiras": "8 cm gerinc" },
+  { "id": 7, "nev": "Tűzőgép", "kategoria": "irodaszer", "ar": 2490, "keszlet": 7, "leiras": "20 lapig" },
+  { "id": 8, "nev": "Másolópapír A4", "kategoria": "papír", "ar": 2990, "keszlet": 60, "leiras": "500 lap, 80 g" }
+]

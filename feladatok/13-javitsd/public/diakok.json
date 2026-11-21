@@ -1,0 +1,9 @@
+[
+  { "id": 1, "nev": "Varga Zsófia", "befizetve": 15000 },
+  { "id": 2, "nev": "Balogh Márk", "befizetve": 5000 },
+  { "id": 3, "nev": "Farkas Lili", "befizetve": 0 },
+  { "id": 4, "nev": "Antal Bence", "befizetve": 15000 },
+  { "id": 5, "nev": "Horváth Noémi", "befizetve": 10000 },
+  { "id": 6, "nev": "Kelemen Ádám", "befizetve": 0 },
+  { "id": 7, "nev": "Dobos Réka", "befizetve": 12000 }
+]

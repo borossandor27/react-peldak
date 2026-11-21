@@ -1,0 +1,8 @@
+[
+  { "id": 1, "cim": "A Pál utcai fiúk", "szerzo_id": 1, "ev": 1906, "kiolcsonozve": false },
+  { "id": 2, "cim": "Egri csillagok", "szerzo_id": 2, "ev": 1899, "kiolcsonozve": true },
+  { "id": 3, "cim": "Légy jó mindhalálig", "szerzo_id": 3, "ev": 1920, "kiolcsonozve": false },
+  { "id": 4, "cim": "A kőszívű ember fiai", "szerzo_id": 4, "ev": 1869, "kiolcsonozve": false },
+  { "id": 5, "cim": "Az ember tragédiája", "szerzo_id": 5, "ev": 1861, "kiolcsonozve": true },
+  { "id": 6, "cim": "Abigél", "szerzo_id": 6, "ev": 1970, "kiolcsonozve": false }
+]

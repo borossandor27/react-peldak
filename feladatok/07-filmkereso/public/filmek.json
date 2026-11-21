@@ -1,0 +1,14 @@
+[
+  { "id": 1, "cim": "Eredet", "rendezo": "Christopher Nolan", "ev": 2010, "mufaj": "sci-fi", "ertekeles": 8.8, "hossz": 148, "leiras": "Egy tolvaj, aki álmokon keresztül lop titkokat, különleges megbízást kap." },
+  { "id": 2, "cim": "Csillagok között", "rendezo": "Christopher Nolan", "ev": 2014, "mufaj": "sci-fi", "ertekeles": 8.7, "hossz": 169, "leiras": "Űrhajósok egy féreglyukon át keresnek új otthont az emberiségnek." },
+  { "id": 3, "cim": "A sötét lovag", "rendezo": "Christopher Nolan", "ev": 2008, "mufaj": "akció", "ertekeles": 9.0, "hossz": 152, "leiras": "Batman szembeszáll Gotham legveszélyesebb bűnözőjével, a Jokerrel." },
+  { "id": 4, "cim": "Mátrix", "rendezo": "Lana és Lilly Wachowski", "ev": 1999, "mufaj": "sci-fi", "ertekeles": 8.7, "hossz": 136, "leiras": "Egy hacker rájön, hogy a valóság csak szimuláció." },
+  { "id": 5, "cim": "Kincsem", "rendezo": "Herendi Gábor", "ev": 2017, "mufaj": "kaland", "ertekeles": 7.3, "hossz": 120, "leiras": "A legyőzhetetlen magyar versenyló és gazdája története." },
+  { "id": 6, "cim": "Saul fia", "rendezo": "Nemes Jeles László", "ev": 2015, "mufaj": "dráma", "ertekeles": 7.4, "hossz": 107, "leiras": "Egy auschwitzi fogoly másfél napja – Oscar-díjas magyar film." },
+  { "id": 7, "cim": "Toy Story", "rendezo": "John Lasseter", "ev": 1995, "mufaj": "animáció", "ertekeles": 8.3, "hossz": 81, "leiras": "Játékok kelnek életre, amikor senki sem figyel." },
+  { "id": 8, "cim": "Agymanók", "rendezo": "Pete Docter", "ev": 2015, "mufaj": "animáció", "ertekeles": 8.1, "hossz": 95, "leiras": "Egy kislány érzelmei próbálják átsegíteni egy költözésen." },
+  { "id": 9, "cim": "Gladiátor", "rendezo": "Ridley Scott", "ev": 2000, "mufaj": "akció", "ertekeles": 8.5, "hossz": 155, "leiras": "Egy elárult római hadvezér gladiátorként áll bosszút." },
+  { "id": 10, "cim": "Forrest Gump", "rendezo": "Robert Zemeckis", "ev": 1994, "mufaj": "dráma", "ertekeles": 8.8, "hossz": 142, "leiras": "Egy egyszerű ember, aki a történelem nagy pillanatainak tanúja lesz." },
+  { "id": 11, "cim": "Vissza a jövőbe", "rendezo": "Robert Zemeckis", "ev": 1985, "mufaj": "kaland", "ertekeles": 8.5, "hossz": 116, "leiras": "Egy tinédzser véletlenül 30 évet utazik vissza az időben." },
+  { "id": 12, "cim": "Dűne", "rendezo": "Denis Villeneuve", "ev": 2021, "mufaj": "sci-fi", "ertekeles": 8.0, "hossz": 155, "leiras": "Egy nemesi család örököse a sivatagbolygó veszélyeivel néz szembe." }
+]

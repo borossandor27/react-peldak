@@ -1,0 +1,12 @@
+[
+  { "nev": "Budapest", "megye": "Budapest", "lakossag": 1686222 },
+  { "nev": "Debrecen", "megye": "Hajdú-Bihar", "lakossag": 199520 },
+  { "nev": "Szeged", "megye": "Csongrád-Csanád", "lakossag": 158797 },
+  { "nev": "Miskolc", "megye": "Borsod-Abaúj-Zemplén", "lakossag": 145637 },
+  { "nev": "Pécs", "megye": "Baranya", "lakossag": 139330 },
+  { "nev": "Győr", "megye": "Győr-Moson-Sopron", "lakossag": 129301 },
+  { "nev": "Nyíregyháza", "megye": "Szabolcs-Szatmár-Bereg", "lakossag": 116298 },
+  { "nev": "Kecskemét", "megye": "Bács-Kiskun", "lakossag": 108584 },
+  { "nev": "Székesfehérvár", "megye": "Fejér", "lakossag": 94758 },
+  { "nev": "Szombathely", "megye": "Vas", "lakossag": 76631 }
+]

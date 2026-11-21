@@ -1,0 +1,41 @@
+/* Alap stílusok – nyugodtan írd át! */
+:root {
+  --hatter: #f5f6fa;
+  --kartya: #ffffff;
+  --szoveg: #1f2430;
+  --halvany: #6b7280;
+  --szegely: #dde1ea;
+  --fo: #2563eb;
+  --fo-sotet: #1d4ed8;
+  --hiba: #dc2626;
+  --siker: #16a34a;
+  font-family: system-ui, 'Segoe UI', Roboto, sans-serif;
+  color: var(--szoveg);
+  background: var(--hatter);
+}
+* { box-sizing: border-box; }
+body { margin: 0; }
+#root { max-width: 960px; margin: 0 auto; padding: 24px 16px; }
+h1 { margin-top: 0; }
+button {
+  font: inherit; padding: 6px 14px; border-radius: 6px; cursor: pointer;
+  border: 1px solid var(--fo); background: var(--fo); color: #fff;
+}
+button:hover { background: var(--fo-sotet); }
+button:disabled { opacity: .5; cursor: not-allowed; }
+button.masodlagos { background: transparent; color: var(--fo); }
+button.veszely { background: var(--hiba); border-color: var(--hiba); }
+input, select, textarea {
+  font: inherit; padding: 6px 10px; border: 1px solid var(--szegely); border-radius: 6px; background: #fff;
+}
+label { display: block; margin: 10px 0 4px; font-weight: 600; }
+.kartya { background: var(--kartya); border: 1px solid var(--szegely); border-radius: 10px; padding: 16px; margin-bottom: 12px; }
+.racs { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 12px; }
+.hiba { color: var(--hiba); }
+.siker { color: var(--siker); }
+.halvany { color: var(--halvany); }
+table { width: 100%; border-collapse: collapse; background: #fff; }
+th, td { text-align: left; padding: 8px; border-bottom: 1px solid var(--szegely); }
+nav { display: flex; gap: 12px; align-items: center; flex-wrap: wrap; margin-bottom: 20px; }
+nav a { color: var(--fo); text-decoration: none; }
+nav a.active { font-weight: 700; text-decoration: underline; }

@@ -1,0 +1,6 @@
+[
+  { "id": 1, "szakkor_id": 1, "diak_id": 4, "datum": "2026-09-08" },
+  { "id": 2, "szakkor_id": 3, "diak_id": 4, "datum": "2026-09-09" },
+  { "id": 3, "szakkor_id": 3, "diak_id": 5, "datum": "2026-09-10" },
+  { "id": 4, "szakkor_id": 4, "diak_id": 5, "datum": "2026-09-10" }
+]
